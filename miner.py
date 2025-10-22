@@ -6,10 +6,10 @@ import hashlib
 import time
 import sys
 
-HOST = 'rx.unmineable.com'
-PORT = 3333
-USERNAME = 'TRX:TGzmDeQTRJQmLv6ndB86uQdHY4L9z7armD.TRX'
-PASSWORD = 'x'
+HOST = 'minotaurx.sea.mine.zpool.ca'
+PORT = 7019
+USERNAME = 'RPAwbi57Le4u5L2Kniz1ZgGYEgHdCXx3Wu.RVN'
+PASSWORD = 'c=RVN'
 
 def create_tcp_connection(host, port):
     try:
