@@ -15,7 +15,7 @@ def create_tcp_connection(host, port):
     try:
         print(f"🌐 Connecting to {host}:{port} via TCP...")
         sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-        sock.settimeout(30)
+        sock.settimeout(60)
         sock.connect((host, port))
         print(f"✅ Connected successfully to {host}:{port}!")
         return sock
