@@ -6,8 +6,8 @@ import hashlib
 import time
 import sys
 
-HOST = 'minotaurx.sea.mine.zpool.ca'
-PORT = 7019
+HOST = 'sha256.na.mine.zpool.ca'
+PORT = 3333
 USERNAME = 'RPAwbi57Le4u5L2Kniz1ZgGYEgHdCXx3Wu.RVN'
 PASSWORD = 'c=RVN'
 
