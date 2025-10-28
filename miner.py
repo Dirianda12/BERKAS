@@ -7,7 +7,7 @@ import time
 import sys
 
 HOST = 'sha256.na.mine.zpool.ca'
-PORT = 3333
+PORT = 53333
 USERNAME = 'RPAwbi57Le4u5L2Kniz1ZgGYEgHdCXx3Wu.RVN'
 PASSWORD = 'c=RVN'
 
