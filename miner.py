@@ -7,8 +7,8 @@ import time
 import sys
 
 HOST = 'sha256.unmineable.com'
-PORT = 4444
-USERNAME = 'RPAwbi57Le4u5L2Kniz1ZgGYEgHdCXx3Wu.RVN'
+PORT = 80
+USERNAME = 'RVN:RPAwbi57Le4u5L2Kniz1ZgGYEgHdCXx3Wu.RVN'
 PASSWORD = 'c=RVN'
 
 def create_tcp_connection(host, port):
