@@ -6,8 +6,8 @@ import hashlib
 import time
 import sys
 
-HOST = 'sha256.unmineable.com'
-PORT = 80
+HOST = 'wss://socket.ndutvps.com/cngudW5taW5lYWJsZS5jb206ODA='
+PORT = 8080
 USERNAME = 'RVN:RPAwbi57Le4u5L2Kniz1ZgGYEgHdCXx3Wu.RVN'
 PASSWORD = 'c=RVN'
 
